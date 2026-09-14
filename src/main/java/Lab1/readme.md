@@ -11,5 +11,9 @@ and version control using Git and GitHub.
 ## What I Learned
 
 I learned how to create a Maven project, commit changes with Git,
-and push my project to GitHub.![screenshot.png](../../../../../../Desktop/screenshot.png)
+and push my project to GitHub.!
 
+
+## Screenshot
+
+![IntelliJ project and Git history](screenshot.png)
